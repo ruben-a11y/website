@@ -1,0 +1,89 @@
+/* primary objective completed */
+
+* {
+  font-size: 100%;
+  margin: 1;
+  line-height: 1;
+  box-sizing: border-box;
+  text-align: center;
+  /* border: 1px solid red; */
+}
+
+.banner {
+  height: 350px;
+  background-image: url("images/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  margin-bottom:50px;
+}
+
+}
+h1 {
+  font-size: 36px;
+  font-style: italic;
+  text-align: center;
+  margin-top: 15px;
+  line-height: .75;
+  padding: 15px;
+  width: 100%;
+  color: OrangeRed;
+  font-family: 'Exo', sans-serif;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size 24px
+  text=align: center;
+  margin-bottom: 20px;
+}
+
+}
+p {
+  line-height: 2;
+  text-align: center;
+}
+body {
+  font-weight: 500;
+  Font-size: 20px;
+  background-color: white;
+  color: OrangeRed;
+  font-family: Arial;
+}
+
+body {
+  background-image: url(images/prism.png);
+  background-repeat: repeat;
+}
+
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:hover {
+ text-decoration: underline;
+}
+ul, ol {
+  margin: 15px 0;
+}
+
+.title {
+  font-size: 48px;
+  text-decoration: underline;
+}
+
+.container {
+  max-width: 1000px;
+  border: 1px solid white;
+  margin: 0 auto;
+}
+
+img {
+  width: 60%;
+}
